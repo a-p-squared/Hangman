@@ -1,0 +1,6 @@
+Update Log:
+
+*Added Comments in the Code
+*Added Main Menu Feature
+*Included Game Rules in the Program
+*Changed the Background and Font Colors

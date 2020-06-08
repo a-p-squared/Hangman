@@ -1,0 +1,4 @@
+Update Log:
+
+*Changed Opt variable data type from int to char to fix Main Menu Invalid option Glitch
+*Improved Visuals
